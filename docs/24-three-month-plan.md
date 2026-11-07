@@ -92,9 +92,9 @@ Parallel all month: 2 to 3 interviews per week (booking businesses and sovereign
 | Week | Focus | Deliverables | Exit |
 | --- | --- | --- | --- |
 | 9 (4 Jan) | Dashboards and widgets | Dashboard page (grid, shared filters, versioning), built-in widgets (number, charts, table, list) with access-scope-aware caching | A dashboard shows data different roles see differently |
-| 10 (11 Jan) | Module system v0 and API | `defineModule`, lifecycle (install to purge), backup and smoke check. REST API with scoped tokens, OpenAPI from Zod | Install and remove a declarative module on both databases |
+| 10 (11 Jan) | Module system v0 and API | `defineModule`, lifecycle (install to purge), backup and smoke check. REST API with scoped tokens, OpenAPI from Zod, and the on/off master switch ([doc 26](26-rest-api-and-mobile-access.md)); mobile sign-in is a "Could" item | Install and remove a declarative module on both databases |
 | 11 (18 Jan) | Form builder and theme builder | Drag-and-drop form builder with validation and conditional logic. Theme builder UI with contrast checks and presets | Build a form and re-theme the app, light and dark, with no code |
-| 12 (25 Jan) | Booking bundle alpha | Booking collections, calendar, form, dashboard, confirmations by email, built with the bundle manifest | A booking flows from form to calendar to dashboard |
+| 12 (25 Jan) | Booking bundle alpha | Booking collections, calendar, form, dashboard, confirmations by email, built with the bundle manifest. Landing page and homepage setting ([doc 25](25-landing-pages-and-homepage.md)): single-target dropdown first, role-based rules if time allows | A booking flows from form to calendar to dashboard |
 | 13 (1 Feb) | Harden and release | Setup wizard (no AI step), docs pass, security checklist from [doc 10](10-security.md), alpha tag, demo video | **Gate review (5 Feb)**, below |
 
 ### Gate review, 5 Feb 2027

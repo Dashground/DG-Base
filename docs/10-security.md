@@ -100,3 +100,6 @@ With local models and air-gapped mode, no customer data has to leave the network
 - [ ] Upload with executable type is rejected or stored inert
 - [ ] CSRF token required on state-changing requests
 - [ ] Air-gapped mode blocks undeclared egress
+- [ ] With the REST API switched off, `/api` and its docs return 404 and tokens are rejected ([doc 26](26-rest-api-and-mobile-access.md))
+- [ ] A client app cannot reach collections or fields the owner did not expose, and exposure never widens a user's role
+- [ ] Reused refresh tokens revoke the whole token family

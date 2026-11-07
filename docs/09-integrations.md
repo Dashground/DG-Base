@@ -36,6 +36,8 @@ flowchart LR
 
 ## REST API and tokens
 
+> **The REST API can be switched on or off by the owner** (off by default), with per-client exposure and mobile sign-in. See [doc 26](26-rest-api-and-mobile-access.md).
+
 - Scoped tokens: choose collections, operations and optionally a role
 - Every call passes the query layer, so roles and row-level rules apply
 - OpenAPI generated from Zod: docs and client libraries cannot drift

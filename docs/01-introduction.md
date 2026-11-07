@@ -4,13 +4,10 @@
 
 **A company should be able to build the dashboards and workflows it needs, add AI agents that do real work inside them, and run all of it, data and models included, on its own servers.**
 
-## The story behind Dashground
-
-
 
 ### Where it started: a website builder
 
-The first plan (placeholder name `sitekit`) was a **website builder**. The thinking was reasonable: lots of small businesses need sites, and open-source options are either developer-only or tied to a hosted service.
+The first plan was a **website builder**. The thinking was reasonable: lots of small businesses need sites, and open-source options are either developer-only or tied to a hosted service.
 
 As the plan was worked through, three things stood out:
 

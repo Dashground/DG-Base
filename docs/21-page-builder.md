@@ -17,6 +17,8 @@ Let a builder compose **pages**: internal screens, dashboards, customer portals 
 
 A dashboard is therefore a page in grid mode, not a separate concept. This avoids two builders doing the same job.
 
+**Landing pages and the homepage.** A landing page is a public page with templates and SEO defaults, and the site setting decides which page `/` shows for each audience (a dashboard, a landing page, or a portal page). See [doc 25](25-landing-pages-and-homepage.md).
+
 ## Page model
 
 ```mermaid

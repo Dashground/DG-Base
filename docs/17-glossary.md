@@ -11,6 +11,7 @@
 | **Builder seat** | A named user who works in the no-code builder. Paid ($49 per month) |
 | **Bundle** | Manifest of modules, seed data, dashboards, workflows and agents that forms a vertical solution |
 | **Capability profile** | Result of testing a model: tool calling, structured output, context length, speed, agents passed |
+| **Client app** | A registered consumer of the REST API (for example a mobile app) with its own exposure, limits and revocation. See doc 26 |
 | **Collection** | A user-defined entity type (like a table) in the data builder |
 | **Contract (migration)** | Final stage of a staged change: remove the old column or table |
 | **Builder studio** | The admin area containing the data, form, page, widget, theme and agent builders. See doc 18 |
@@ -23,8 +24,11 @@
 | **Data-class routing** | Gateway rule that restricts tagged fields to allowed providers |
 | **Declarative module** | Module made only of collections, views, workflows and agents; no custom code |
 | **Dry-run** | Agent mode where write and outbound tools are recorded but not executed |
+| **API master switch** | Setting that enables or disables the public REST API for the whole install. Off by default. See doc 26 |
 | **Egress report** | List of outside destinations contacted in the last 30 days |
 | **Expand / backfill / contract** | Three-stage schema change pattern safe on both PostgreSQL and MySQL |
+| **Homepage rule** | One entry in the homepage setting: an audience (anonymous or roles) mapped to a target page. First match wins. See doc 25 |
+| **Landing page** | A public page built with the page builder, with templates and SEO fields. Can be set as the homepage. See doc 25 |
 | **Kill switch** | Owner control that stops all agents |
 | **Model gateway** | Single interface through which all model calls pass |
 | **Module** | Unit that adds a capability; installable and removable from the admin UI |

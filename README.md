@@ -32,6 +32,8 @@ These docs are the plan: why we are building it, what we build and in what order
 | 22 | [Widget builder](/docs/22-widget-builder.md) | Reusable data widgets (proposed) |
 | 23 | [Agent builder](/docs/23-agent-builder.md) | No-code agent creation, testing, operations (proposed) |
 | 24 | [Three-month plan](/docs/24-three-month-plan.md) | Week-by-week plan to 5 Feb 2027, with AI-assisted workflow (proposed) |
+| 25 | [Landing pages and homepage](/docs/25-landing-pages-and-homepage.md) | Create pages in admin, choose the homepage per audience (proposed) |
+| 26 | [REST API switch and mobile access](/docs/26-rest-api-and-mobile-access.md) | Enable or disable the API, client apps, mobile sign-in, exposure (proposed) |
 
 ## Conventions
 
