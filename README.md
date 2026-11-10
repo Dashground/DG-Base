@@ -4,6 +4,10 @@ Dashground is an open-source, self-hosted dashboard platform. Startups and small
 
 These docs are the plan: why we are building it, what we build and in what order, and how each part works. The source of truth for the decisions is `Open Dashboard Platform Final Architecture with Agents.md` (4 Nov 2026). These docs expand it; if they disagree, fix the docs or record a new decision.
 
+## Build progress
+
+The full list of features and steps, with checkboxes to tick as each is completed: **[Build checklist](/docs/BUILD-CHECKLIST.md)**.
+
 ## Reading order
 
 | # | Doc | Answers |
